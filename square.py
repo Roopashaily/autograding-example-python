@@ -1,11 +1,9 @@
 def squaring_num():
-    cell_count = int(input())
+    
 
     ''' Your solution goes here '''
-
-    print(cell_count)
-
-
-
-    #return the final output_string variable without fail
-    return cell_count
+    
+    average=??
+    
+    #return the final average of the normalised values of the given inputs without fail
+    return average
