@@ -17,7 +17,7 @@ Ex: If the input is: 5
 65.0
 
 
-Return the average from the function. (0.51)
+Return the average from the function. 
 
 
 
